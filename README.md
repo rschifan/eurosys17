@@ -4,6 +4,11 @@
 
 ### Introduction to Visualising Spatial Data in Python
 
-This repo contains the material for the practical visualization module in Python. 
+This repository contains the material for the practical session on visualization in Python. 
+
+The exercises are adaptations of notebooks and courses available online at:
+
+* http://darribas.org/gds17/ by Dani Arribas-Bel (@darribas)
+* http://python-visualization.github.io/folium/quickstart.html#Choropleth-maps
 
 
