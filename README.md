@@ -10,5 +10,6 @@ The exercises are adaptations of notebooks and courses available online at:
 
 * http://darribas.org/gds17/ by Dani Arribas-Bel (@darribas)
 * http://python-visualization.github.io/folium/quickstart.html#Choropleth-maps
+* https://blog.prototypr.io/interactive-maps-with-python-part-1-aa1563dbe5a9
 
 
